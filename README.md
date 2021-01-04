@@ -5,4 +5,4 @@ Mustafa's Notes
 
 ## Summary 
 
-This repository contains all of the notes taken by Mustafa for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Mustafa](https://github.com/DrMustafaH) for the Lighthouse Labs Web Development Bootcamp.
